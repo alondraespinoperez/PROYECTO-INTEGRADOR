@@ -1,0 +1,1 @@
+ C:\\Users\\Alex\\Desktop\\SEMESTRE\ 8\\PROGRAM\ WEB\ 2\\U4\\PROYECTO-INTEGRADOR-main\\the_rivera\\build\\4daeb43e214e47b6e7598a283ae4284c\\dart_build_result.json: 

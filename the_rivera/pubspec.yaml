@@ -1,0 +1,45 @@
+name: the_rivera_barberia
+description: Aplicación para Barbería The Rivera - Cortes Men & Girls Carácter
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+    
+  # Enrutamiento
+  go_router: ^14.2.0
+  
+  # Estado y providers
+  provider: ^6.1.2
+  
+  # Iconos
+  cupertino_icons: ^1.0.6
+  flutter_iconly: ^1.0.2
+  
+  # Almacenamiento local
+  shared_preferences: ^2.2.3
+  
+  # Utilidades
+  flutter_svg: ^2.0.9
+  
+  # Para abrir mapas y URLs
+  url_launcher: ^6.2.0
+  
+  # Para formato de fechas
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
